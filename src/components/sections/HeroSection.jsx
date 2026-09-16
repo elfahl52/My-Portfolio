@@ -62,7 +62,7 @@ export function HeroSection({ roles, profileImage }) {
 
               <Button
                 as="a"
-                href="/Khaled-Elfahl-CV.html"
+                href="/Khaled_Elfahl_CV.pdf"
                 download
                 variant="secondary"
                 className="rounded-xl !px-6 !py-3"
